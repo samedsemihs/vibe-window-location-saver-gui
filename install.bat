@@ -101,13 +101,7 @@ reg add "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v "%APP_NAME%" /t 
 
 :: Create Start Menu shortcut
 echo [4/4] %MSG_STEP4%
-powershell -NoProfile -Command ^
-    "$ws = New-Object -ComObject WScript.Shell; ^
-     $s = $ws.CreateShortcut('%STARTMENU_DIR%\%APP_NAME%.lnk'); ^
-     $s.TargetPath = '%INSTALL_DIR%\%EXE_NAME%'; ^
-     $s.WorkingDirectory = '%INSTALL_DIR%'; ^
-     $s.Description = 'Screen Location Saver'; ^
-     $s.Save()" >nul 2>&1
+powershell -NoProfile -Command "$ws = New-Object -ComObject WScript.Shell; $s = $ws.CreateShortcut('%STARTMENU_DIR%\%APP_NAME%.lnk'); $s.TargetPath = '%INSTALL_DIR%\%EXE_NAME%'; $s.WorkingDirectory = '%INSTALL_DIR%'; $s.Description = 'Screen Location Saver'; $s.Save()" >nul 2>&1
 
 echo.
 echo ============================================
