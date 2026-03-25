@@ -1,0 +1,27 @@
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+env/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Config (user-specific)
+config.json
+
+# OS
+Thumbs.db
+.DS_Store
+.claude/

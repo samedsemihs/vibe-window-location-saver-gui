@@ -1,0 +1,448 @@
+{
+  "timestamp": "2026-03-23T17:18:05.771123",
+  "monitors": [
+    {
+      "device_name": "\\\\.\\DISPLAY1",
+      "rect": [
+        0,
+        0,
+        3840,
+        2160
+      ],
+      "work_area": [
+        0,
+        0,
+        3840,
+        2088
+      ],
+      "is_primary": true,
+      "orientation": "landscape",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "device_name": "\\\\.\\DISPLAY2",
+      "rect": [
+        3840,
+        0,
+        5280,
+        2560
+      ],
+      "work_area": [
+        3840,
+        0,
+        5280,
+        2512
+      ],
+      "is_primary": false,
+      "orientation": "portrait",
+      "width": 1440,
+      "height": 2560
+    }
+  ],
+  "windows": [
+    {
+      "title": "Screen Location Saver",
+      "exe_path": "C:\\Python314\\python.exe",
+      "command_line": "C:\\Python314\\python.exe main.py",
+      "window_class": "TkTopLevel",
+      "placement": {
+        "show_cmd": 1,
+        "normal_position": [
+          2066,
+          716,
+          2538,
+          1192
+        ],
+        "min_position": [
+          -1,
+          -1
+        ],
+        "max_position": [
+          -1,
+          -1
+        ]
+      },
+      "rect": [
+        2066,
+        716,
+        2538,
+        1192
+      ],
+      "monitor_index": 0,
+      "monitor_device": "\\\\.\\DISPLAY1"
+    },
+    {
+      "title": "afterheadend",
+      "exe_path": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.23.20211.0_x64__8wekyb3d8bbwe\\WindowsTerminal.exe",
+      "command_line": "\"C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.23.20211.0_x64__8wekyb3d8bbwe\\WindowsTerminal.exe\"",
+      "window_class": "CASCADIA_HOSTING_WINDOW_CLASS",
+      "placement": {
+        "show_cmd": 1,
+        "normal_position": [
+          4498,
+          242,
+          5232,
+          1505
+        ],
+        "min_position": [
+          -1,
+          -1
+        ],
+        "max_position": [
+          -1,
+          -1
+        ]
+      },
+      "rect": [
+        4553,
+        1256,
+        5287,
+        2519
+      ],
+      "monitor_index": 1,
+      "monitor_device": "\\\\.\\DISPLAY2"
+    },
+    {
+      "title": "Claude",
+      "exe_path": "C:\\Program Files\\WindowsApps\\Claude_1.1.7714.0_x64__pzs8sxrjxfjjc\\app\\claude.exe",
+      "command_line": "\"C:\\Program Files\\WindowsApps\\Claude_1.1.7714.0_x64__pzs8sxrjxfjjc\\app\\Claude.exe\"",
+      "window_class": "Chrome_WidgetWin_1",
+      "placement": {
+        "show_cmd": 1,
+        "normal_position": [
+          1020,
+          444,
+          2820,
+          1644
+        ],
+        "min_position": [
+          -1,
+          -1
+        ],
+        "max_position": [
+          -1,
+          -1
+        ]
+      },
+      "rect": [
+        1020,
+        444,
+        2820,
+        1644
+      ],
+      "monitor_index": 0,
+      "monitor_device": "\\\\.\\DISPLAY1"
+    },
+    {
+      "title": "ULTISI İLE %100 CANA TEK ATAN ŞAMPİYON ? - YouTube - Google Chrome",
+      "exe_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+      "command_line": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\"",
+      "window_class": "Chrome_WidgetWin_1",
+      "placement": {
+        "show_cmd": 1,
+        "normal_position": [
+          3833,
+          1256,
+          4567,
+          2519
+        ],
+        "min_position": [
+          -32000,
+          -32000
+        ],
+        "max_position": [
+          -1,
+          -1
+        ]
+      },
+      "rect": [
+        3833,
+        1256,
+        4567,
+        2519
+      ],
+      "monitor_index": 1,
+      "monitor_device": "\\\\.\\DISPLAY2"
+    },
+    {
+      "title": "screen-loc-saver - File Explorer",
+      "exe_path": "C:\\Windows\\explorer.exe",
+      "command_line": "C:\\Windows\\Explorer.EXE",
+      "window_class": "CabinetWClass",
+      "placement": {
+        "show_cmd": 1,
+        "normal_position": [
+          1209,
+          653,
+          2918,
+          1615
+        ],
+        "min_position": [
+          -1,
+          -1
+        ],
+        "max_position": [
+          -1,
+          -1
+        ]
+      },
+      "rect": [
+        1209,
+        653,
+        2918,
+        1615
+      ],
+      "monitor_index": 0,
+      "monitor_device": "\\\\.\\DISPLAY1"
+    },
+    {
+      "title": "LimeWire: Share Files - Secure File Upload Platform - Google Chrome",
+      "exe_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+      "command_line": "\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\"",
+      "window_class": "Chrome_WidgetWin_1",
+      "placement": {
+        "show_cmd": 1,
+        "normal_position": [
+          4299,
+          242,
+          5065,
+          1505
+        ],
+        "min_position": [
+          -1,
+          -1
+        ],
+        "max_position": [
+          -1,
+          -1
+        ]
+      },
+      "rect": [
+        4553,
+        0,
+        5287,
+        1263
+      ],
+      "monitor_index": 1,
+      "monitor_device": "\\\\.\\DISPLAY2"
+    },
+    {
+      "title": "Sohbet | TREDAŞ Yeni V3 Geçiş Çalışmaları | Microsoft Teams",
+      "exe_path": "C:\\Program Files\\WindowsApps\\MSTeams_26043.2016.4478.2773_x64__8wekyb3d8bbwe\\ms-teams.exe",
+      "command_line": "C:\\Users\\samed\\AppData\\Local\\Microsoft\\WindowsApps\\MSTeams_8wekyb3d8bbwe\\ms-teams.exe msteams:system-initiated",
+      "window_class": "TeamsWebView",
+      "placement": {
+        "show_cmd": 1,
+        "normal_position": [
+          4163,
+          1004,
+          5132,
+          1746
+        ],
+        "min_position": [
+          -1,
+          -1
+        ],
+        "max_position": [
+          -1,
+          -1
+        ]
+      },
+      "rect": [
+        3833,
+        0,
+        4567,
+        1263
+      ],
+      "monitor_index": 1,
+      "monitor_device": "\\\\.\\DISPLAY2"
+    },
+    {
+      "title": "Mobil Servisler (Webservisler).xlsx (read-only) — LibreOffice Calc",
+      "exe_path": "C:\\Program Files\\LibreOffice\\program\\soffice.bin",
+      "command_line": "\"C:\\Program Files\\LibreOffice\\program\\scalc.exe\" -o \"C:\\Users\\samed\\AppData\\Local\\Temp\\36e7c017-950a-439b-ac07-d1b42e0b6783_TREDAŞ-20260323T114710Z-1-001.zip.783\\TREDAŞ\\Mobil Servisler (Webservisler).xlsx\" --calc -env:OOO_CWD=2C:\\\\Windows\\\\system32",
+      "window_class": "SALFRAME",
+      "placement": {
+        "show_cmd": 1,
+        "normal_position": [
+          720,
+          285,
+          3600,
+          1822
+        ],
+        "min_position": [
+          -1,
+          -1
+        ],
+        "max_position": [
+          -1,
+          -1
+        ]
+      },
+      "rect": [
+        720,
+        285,
+        3600,
+        1822
+      ],
+      "monitor_index": 0,
+      "monitor_device": "\\\\.\\DISPLAY1"
+    },
+    {
+      "title": "GridBoxV3.AfterHeadend",
+      "exe_path": "C:\\Users\\samed\\AppData\\Local\\Programs\\Rider\\bin\\rider64.exe",
+      "command_line": "C:\\Users\\samed\\AppData\\Local\\Programs\\Rider\\bin\\rider64.exe",
+      "window_class": "SunAwtFrame",
+      "placement": {
+        "show_cmd": 3,
+        "normal_position": [
+          -119,
+          467,
+          3719,
+          2553
+        ],
+        "min_position": [
+          -32000,
+          -32000
+        ],
+        "max_position": [
+          -1,
+          -1
+        ]
+      },
+      "rect": [
+        -11,
+        -11,
+        3851,
+        2099
+      ],
+      "monitor_index": 0,
+      "monitor_device": "\\\\.\\DISPLAY1"
+    },
+    {
+      "title": "WhatsApp",
+      "exe_path": "C:\\Program Files\\WindowsApps\\5319275A.WhatsAppDesktop_2.2607.106.0_x64__cv1g1gvanyjgm\\WhatsApp.Root.exe",
+      "command_line": "\"C:\\Program Files\\WindowsApps\\5319275A.WhatsAppDesktop_2.2607.106.0_x64__cv1g1gvanyjgm\\WhatsApp.Root.exe\"",
+      "window_class": "WinUIDesktopWin32WindowClass",
+      "placement": {
+        "show_cmd": 1,
+        "normal_position": [
+          1610,
+          269,
+          3092,
+          1300
+        ],
+        "min_position": [
+          -32000,
+          -32000
+        ],
+        "max_position": [
+          -1,
+          -1
+        ]
+      },
+      "rect": [
+        1610,
+        269,
+        3092,
+        1300
+      ],
+      "monitor_index": 0,
+      "monitor_device": "\\\\.\\DISPLAY1"
+    },
+    {
+      "title": "Spotify Premium",
+      "exe_path": "C:\\Program Files\\WindowsApps\\SpotifyAB.SpotifyMusic_1.285.519.0_x64__zpdnekdrzrea0\\Spotify.exe",
+      "command_line": "Spotify.exe",
+      "window_class": "Chrome_WidgetWin_1",
+      "placement": {
+        "show_cmd": 3,
+        "normal_position": [
+          240,
+          189,
+          2640,
+          1539
+        ],
+        "min_position": [
+          -1,
+          -1
+        ],
+        "max_position": [
+          -1,
+          -1
+        ]
+      },
+      "rect": [
+        -11,
+        -11,
+        3851,
+        2099
+      ],
+      "monitor_index": 0,
+      "monitor_device": "\\\\.\\DISPLAY1"
+    },
+    {
+      "title": "Hayen – console [ARAS - Yeni]",
+      "exe_path": "C:\\Users\\samed\\AppData\\Local\\Programs\\DataGrip\\bin\\datagrip64.exe",
+      "command_line": "C:\\Users\\samed\\AppData\\Local\\Programs\\DataGrip\\bin\\datagrip64.exe",
+      "window_class": "SunAwtFrame",
+      "placement": {
+        "show_cmd": 3,
+        "normal_position": [
+          531,
+          360,
+          2463,
+          1524
+        ],
+        "min_position": [
+          -1,
+          -1
+        ],
+        "max_position": [
+          -1,
+          -1
+        ]
+      },
+      "rect": [
+        -11,
+        -11,
+        3851,
+        2099
+      ],
+      "monitor_index": 0,
+      "monitor_device": "\\\\.\\DISPLAY1"
+    },
+    {
+      "title": "Discord Updater",
+      "exe_path": "C:\\Users\\samed\\AppData\\Local\\Discord\\app-1.0.9226\\Discord.exe",
+      "command_line": "C:\\Users\\samed\\AppData\\Local\\Discord\\app-1.0.9226\\Discord.exe",
+      "window_class": "Chrome_WidgetWin_1",
+      "placement": {
+        "show_cmd": 1,
+        "normal_position": [
+          1695,
+          780,
+          2145,
+          1307
+        ],
+        "min_position": [
+          -1,
+          -1
+        ],
+        "max_position": [
+          -1,
+          -1
+        ]
+      },
+      "rect": [
+        1695,
+        780,
+        2145,
+        1307
+      ],
+      "monitor_index": 0,
+      "monitor_device": "\\\\.\\DISPLAY1"
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "monitors": [
+    {
+      "device_name": "\\\\.\\DISPLAY1",
+      "rect": [
+        0,
+        0,
+        3840,
+        2160
+      ],
+      "work_area": [
+        0,
+        0,
+        3840,
+        2088
+      ],
+      "is_primary": true,
+      "index": 0,
+      "width": 3840,
+      "height": 2160,
+      "orientation": "landscape"
+    },
+    {
+      "device_name": "\\\\.\\DISPLAY2",
+      "rect": [
+        3840,
+        0,
+        5280,
+        2560
+      ],
+      "work_area": [
+        3840,
+        0,
+        5280,
+        2512
+      ],
+      "is_primary": false,
+      "index": 1,
+      "width": 1440,
+      "height": 2560,
+      "orientation": "portrait"
+    }
+  ],
+  "windows": [
+    {
+      "title": "Claude",
+      "class": "Chrome_WidgetWin_1",
+      "exe_path": "C:\\Program Files\\WindowsApps\\Claude_1.1.7714.0_x64__pzs8sxrjxfjjc\\app\\claude.exe",
+      "pid": 15860,
+      "placement": {
+        "show_cmd": 1,
+        "normal_position": [
+          1020,
+          444,
+          2820,
+          1644
+        ],
+        "min_position": [
+          -1,
+          -1
+        ],
+        "max_position": [
+          -1,
+          -1
+        ]
+      },
+      "monitor_index": 0
+    },
+    {
+      "title": "GridBoxV3.AfterHeadend",
+      "class": "SunAwtFrame",
+      "exe_path": "C:\\Users\\samed\\AppData\\Local\\Programs\\Rider\\bin\\rider64.exe",
+      "pid": 3852,
+      "placement": {
+        "show_cmd": 3,
+        "normal_position": [
+          0,
+          0,
+          3840,
+          2088
+        ],
+        "min_position": [
+          -1,
+          -1
+        ],
+        "max_position": [
+          -1,
+          -1
+        ]
+      },
+      "monitor_index": 0
+    },
+    {
+      "title": "Mobil Servisler (Webservisler).xlsx — LibreOffice Calc",
+      "class": "SALFRAME",
+      "exe_path": "C:\\Program Files\\LibreOffice\\program\\soffice.bin",
+      "pid": 21120,
+      "placement": {
+        "show_cmd": 1,
+        "normal_position": [
+          720,
+          285,
+          3600,
+          1822
+        ],
+        "min_position": [
+          -1,
+          -1
+        ],
+        "max_position": [
+          -1,
+          -1
+        ]
+      },
+      "monitor_index": 0
+    },
+    {
+      "title": "Kayseri Namaz Vakitleri | Diyanet İşleri Başkanlığı - Google Chrome",
+      "class": "Chrome_WidgetWin_1",
+      "exe_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+      "pid": 17748,
+      "placement": {
+        "show_cmd": 1,
+        "normal_position": [
+          3833,
+          1256,
+          4567,
+          2519
+        ],
+        "min_position": [
+          -1,
+          -1
+        ],
+        "max_position": [
+          -1,
+          -1
+        ]
+      },
+      "monitor_index": 1
+    },
+    {
+      "title": "GridBoxDev - Kapsam - Jira - Google Chrome",
+      "class": "Chrome_WidgetWin_1",
+      "exe_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+      "pid": 17748,
+      "placement": {
+        "show_cmd": 1,
+        "normal_position": [
+          4546,
+          0,
+          5280,
+          1263
+        ],
+        "min_position": [
+          -1,
+          -1
+        ],
+        "max_position": [
+          -1,
+          -1
+        ]
+      },
+      "monitor_index": 1
+    },
+    {
+      "title": "Calendar | Calendar | Microsoft Teams",
+      "class": "TeamsWebView",
+      "exe_path": "C:\\Program Files\\WindowsApps\\MSTeams_26043.2016.4478.2773_x64__8wekyb3d8bbwe\\ms-teams.exe",
+      "pid": 12436,
+      "placement": {
+        "show_cmd": 1,
+        "normal_position": [
+          4163,
+          1004,
+          5132,
+          1746
+        ],
+        "min_position": [
+          -1,
+          -1
+        ],
+        "max_position": [
+          -1,
+          -1
+        ]
+      },
+      "monitor_index": 1
+    },
+    {
+      "title": "WhatsApp",
+      "class": "WinUIDesktopWin32WindowClass",
+      "exe_path": "C:\\Program Files\\WindowsApps\\5319275A.WhatsAppDesktop_2.2607.106.0_x64__cv1g1gvanyjgm\\WhatsApp.Root.exe",
+      "pid": 18948,
+      "placement": {
+        "show_cmd": 2,
+        "normal_position": [
+          1122,
+          269,
+          2810,
+          1549
+        ],
+        "min_position": [
+          -32000,
+          -32000
+        ],
+        "max_position": [
+          -1,
+          -1
+        ]
+      },
+      "monitor_index": 0
+    },
+    {
+      "title": "Screening Call | North - Google Chrome",
+      "class": "Chrome_WidgetWin_1",
+      "exe_path": "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+      "pid": 17748,
+      "placement": {
+        "show_cmd": 2,
+        "normal_position": [
+          822,
+          145,
+          2978,
+          2041
+        ],
+        "min_position": [
+          -32000,
+          -32000
+        ],
+        "max_position": [
+          -1,
+          -1
+        ]
+      },
+      "monitor_index": 0
+    },
+    {
+      "title": "Hayen – console [ARAS - Yeni]",
+      "class": "SunAwtFrame",
+      "exe_path": "C:\\Users\\samed\\AppData\\Local\\Programs\\DataGrip\\bin\\datagrip64.exe",
+      "pid": 19540,
+      "placement": {
+        "show_cmd": 3,
+        "normal_position": [
+          531,
+          360,
+          2463,
+          1524
+        ],
+        "min_position": [
+          -1,
+          -1
+        ],
+        "max_position": [
+          -1,
+          -1
+        ]
+      },
+      "monitor_index": 0
+    },
+    {
+      "title": "afterheadend",
+      "class": "CASCADIA_HOSTING_WINDOW_CLASS",
+      "exe_path": "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.23.20211.0_x64__8wekyb3d8bbwe\\WindowsTerminal.exe",
+      "pid": 13556,
+      "placement": {
+        "show_cmd": 1,
+        "normal_position": [
+          4553,
+          1256,
+          5287,
+          2519
+        ],
+        "min_position": [
+          -1,
+          -1
+        ],
+        "max_position": [
+          -1,
+          -1
+        ]
+      },
+      "monitor_index": 1
+    }
+  ]
+}
